@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: d38aeb6e03e42f04db0bcededaddcfe1
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: accesDoorMetal00
+    100002: alfombra
+    100004: alfombra01
+    100006: ceiling
+    100008: cellingRoom
+    100010: columna001
+    100012: columna003
+    100014: columna004
+    100016: columna006
+    100018: columna007
+    100020: floor_concret00
+    100022: floor_concret003
+    100024: floor_concret02
+    100026: linesFloor
+    100028: malla
+    100030: Object005
+    100032: pared003
+    100034: pared004
+    100036: paredFondo001
+    100038: paredFondo002
+    100040: //RootNode
+    100042: pipes
+    100044: puertaPrincipal002
+    100046: puertaPrincipal003
+    100048: puertaPrincipal004
+    100050: puertaPrincipal005
+    100052: puertaPrincipal006
+    100054: puertaPrincipal010
+    100056: puertaPrincipal012
+    100058: puertaPrincipal013
+    100060: puertaPrincipal014
+    100062: puertaPrincipal015
+    100064: puertaPrincipal016
+    100066: puertaPrincipal018
+    100068: un001
+    100070: vigasCelin
+    100072: wallRoomS
+    400000: accesDoorMetal00
+    400002: alfombra
+    400004: alfombra01
+    400006: ceiling
+    400008: cellingRoom
+    400010: columna001
+    400012: columna003
+    400014: columna004
+    400016: columna006
+    400018: columna007
+    400020: floor_concret00
+    400022: floor_concret003
+    400024: floor_concret02
+    400026: linesFloor
+    400028: malla
+    400030: Object005
+    400032: pared003
+    400034: pared004
+    400036: paredFondo001
+    400038: paredFondo002
+    400040: //RootNode
+    400042: pipes
+    400044: puertaPrincipal002
+    400046: puertaPrincipal003
+    400048: puertaPrincipal004
+    400050: puertaPrincipal005
+    400052: puertaPrincipal006
+    400054: puertaPrincipal010
+    400056: puertaPrincipal012
+    400058: puertaPrincipal013
+    400060: puertaPrincipal014
+    400062: puertaPrincipal015
+    400064: puertaPrincipal016
+    400066: puertaPrincipal018
+    400068: un001
+    400070: vigasCelin
+    400072: wallRoomS
+    2100000: metalGris
+    2100002: cromado
+    2100004: StructureWhite
+    2100006: AmarilloPintura
+    2100008: Luz
+    2100010: Negrohule
+    2100012: objetos
+    2100014: floorConcret
+    2100016: GrisHule
+    2100018: greyMetal
+    2100020: curtineWhiteMetal
+    2100022: wallBlock
+    2100024: vidrio
+    2100026: 'Material #819'
+    2300000: accesDoorMetal00
+    2300002: alfombra
+    2300004: alfombra01
+    2300006: ceiling
+    2300008: cellingRoom
+    2300010: columna001
+    2300012: columna003
+    2300014: columna004
+    2300016: columna006
+    2300018: columna007
+    2300020: floor_concret00
+    2300022: floor_concret003
+    2300024: floor_concret02
+    2300026: linesFloor
+    2300028: malla
+    2300030: Object005
+    2300032: pared003
+    2300034: pared004
+    2300036: paredFondo001
+    2300038: paredFondo002
+    2300040: pipes
+    2300042: puertaPrincipal002
+    2300044: puertaPrincipal003
+    2300046: puertaPrincipal004
+    2300048: puertaPrincipal005
+    2300050: puertaPrincipal006
+    2300052: puertaPrincipal010
+    2300054: puertaPrincipal012
+    2300056: puertaPrincipal013
+    2300058: puertaPrincipal014
+    2300060: puertaPrincipal015
+    2300062: puertaPrincipal016
+    2300064: puertaPrincipal018
+    2300066: un001
+    2300068: vigasCelin
+    2300070: wallRoomS
+    3300000: accesDoorMetal00
+    3300002: alfombra
+    3300004: alfombra01
+    3300006: ceiling
+    3300008: cellingRoom
+    3300010: columna001
+    3300012: columna003
+    3300014: columna004
+    3300016: columna006
+    3300018: columna007
+    3300020: floor_concret00
+    3300022: floor_concret003
+    3300024: floor_concret02
+    3300026: linesFloor
+    3300028: malla
+    3300030: Object005
+    3300032: pared003
+    3300034: pared004
+    3300036: paredFondo001
+    3300038: paredFondo002
+    3300040: pipes
+    3300042: puertaPrincipal002
+    3300044: puertaPrincipal003
+    3300046: puertaPrincipal004
+    3300048: puertaPrincipal005
+    3300050: puertaPrincipal006
+    3300052: puertaPrincipal010
+    3300054: puertaPrincipal012
+    3300056: puertaPrincipal013
+    3300058: puertaPrincipal014
+    3300060: puertaPrincipal015
+    3300062: puertaPrincipal016
+    3300064: puertaPrincipal018
+    3300066: un001
+    3300068: vigasCelin
+    3300070: wallRoomS
+    4300000: puertaPrincipal002
+    4300002: un001
+    4300004: floor_concret00
+    4300006: vigasCelin
+    4300008: alfombra01
+    4300010: accesDoorMetal00
+    4300012: columna001
+    4300014: pared003
+    4300016: floor_concret02
+    4300018: alfombra
+    4300020: paredFondo001
+    4300022: linesFloor
+    4300024: ceiling
+    4300026: malla
+    4300028: puertaPrincipal012
+    4300030: wallRoomS
+    4300032: paredFondo002
+    4300034: columna007
+    4300036: pipes
+    4300038: cellingRoom
+    4300040: puertaPrincipal018
+    4300042: pared004
+    4300044: floor_concret003
+    4300046: Object005
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AmarilloPintura
+    second: {fileID: 2100000, guid: 42bad69f7834e1c4d87e3dac50c3af33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GrisHule
+    second: {fileID: 2100000, guid: eb6f78bcd33b0bd4a989b0b39aeab0bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Luz
+    second: {fileID: 2100000, guid: f19b391100184a743a7c614b64dd0dc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #819'
+    second: {fileID: 2100000, guid: aba824cf77f7b784da98437c70edaa98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Negrohule
+    second: {fileID: 2100000, guid: 108e34074c6460542a6fbe174687dd8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StructureWhite
+    second: {fileID: 2100000, guid: 1e0d336c44e11cf4fb9d1ec9b6d8540f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cromado
+    second: {fileID: 2100000, guid: 1e6544af28cebe94bba2885240fb0958, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: curtineWhiteMetal
+    second: {fileID: 2100000, guid: c80bab76a391ae64eb7038f03ef29f7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorConcret
+    second: {fileID: 2100000, guid: f7b5308c39adf674d968e493aba6d874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: greyMetal
+    second: {fileID: 2100000, guid: 26d1383a7cffa564c8ce951ca81fc20b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalGris
+    second: {fileID: 2100000, guid: 7b37251cb1faa3b439b16f7eb3c53b82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: objetos
+    second: {fileID: 2100000, guid: a84753c0ede269f45aae960fe5d90342, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vidrio
+    second: {fileID: 2100000, guid: 07778f35e6823fa409235aa214f78f18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallBlock
+    second: {fileID: 2100000, guid: e3b8028ae4606114dbe51153f284c62d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
